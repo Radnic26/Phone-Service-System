@@ -1,0 +1,8 @@
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\bin\Debug\UserControlClass.dll
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\bin\Debug\UserControlClass.pdb
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\obj\Debug\UserControlClass.Properties.Resources.resources
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\obj\Debug\UserControlClass.UserControl1.resources
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\obj\Debug\UserControlClass.csproj.GenerateResource.cache
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\obj\Debug\UserControlClass.csproj.CoreCompileInputs.cache
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\obj\Debug\UserControlClass.dll
+D:\Programmin\C#\FinalProject\FinalProject\UserControlClass\obj\Debug\UserControlClass.pdb

@@ -1,0 +1,255 @@
+CLIENT LIST
+
+Name: Niculae Radu 
+Age: 22
+Email: radnic26@gmail.com
+City: Bucuresti
+Telephone: 0731773883
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Mihai Mihalache
+Age: 45
+Email: mihai@gmail.com
+City: Iasi
+Telephone: 0743596431
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Muzica si Video
+Price: 7.96
+
+
+Name: Andrei Rosu
+Age: 17
+Email: andrei@galben.com
+City: Calarasi
+Telephone: 0732456923
+Subscription: Smart Student
+Price: 9
+ExtraOption: -
+Price: 0
+
+
+Name: Ion Apostolache
+Age: 34
+Email: aposti@vasi.org
+City: Drobeta
+Telephone: 0723452056
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Internet pe Mobil
+Price: 3.96
+
+
+Name: Cristian Presura
+Age: 65
+Email: cristi@fizica.co.uk
+City: Fetesti
+Telephone: 0721453834
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Internet pe Mobil
+Price: 3.96
+
+
+Name: Costin Iordache
+Age: 26
+Email: costin4you@love.com
+City: Baicoi
+Telephone: 0741567934
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Catalin Butnariu
+Age: 56
+Email: cata@aol.ro
+City: Cluj-Napoca
+Telephone: 0723547023
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Muzica si Video
+Price: 7.96
+
+
+Name: Adrian Manta
+Age: 28
+Email: felix@adrian.com
+City: Constanta
+Telephone: 0721479256
+Subscription: Smart Student
+Price: 9
+ExtraOption: Muzica si Video
+Price: 7.96
+
+
+Name: Felix Lungu
+Age: 15
+Email: adrian@felix.ro
+City: Navodari
+Telephone: 0763127934
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Lica Gica
+Age: 67
+Email: lica@gica.lg
+City: Baicoi
+Telephone: 0721464867
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Internet pe Mobil
+Price: 3.96
+
+
+Name: Andrei Muresanu
+Age: 41
+Email: andrei@strada.com
+City: Constanta
+Telephone: 0753123942
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: -
+Price: 0
+
+
+Name: Roata Ion
+Age: 10
+Email: mos@roata.ion
+City: Iasi
+Telephone: 0734512783
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Ovidiu Traian
+Age: 59
+Email: negru@traian.ovidiu
+City: Constanta
+Telephone: 0731568293
+Subscription: Smart Student
+Price: 9
+ExtraOption: Muzica si Video
+Price: 7.96
+
+
+Name: Adi Toba
+Age: 71
+Email: toba@toba.toba
+City: Giurgiu
+Telephone: 0761234987
+Subscription: Smart Student
+Price: 9
+ExtraOption: Internet pe Mobil
+Price: 3.96
+
+
+Name: Mihai Inzestratu
+Age: 63
+Email: inze@mih.ai
+City: Techirghiol
+Telephone: 0783456912
+Subscription: Smart Student
+Price: 9
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Coroianu cos
+Age: 34
+Email: cos@coro.ianu
+City: Teleorman
+Telephone: 0741569346
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: -
+Price: 0
+
+
+Name: Dezvirginatoru Marean
+Age: 46
+Email: marean@dezvi.com
+City: Vaslui
+Telephone: 0792929292
+Subscription: Smart Student
+Price: 9
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Coman Nicu
+Age: 22
+Email: nicucoman@gmail.com
+City: Targu Mures
+Telephone: 0731245723
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Muzica si Video
+Price: 7.96
+
+
+Name: Ilie Andreea
+Age: 26
+Email: deea@d.com
+City: Radauti
+Telephone: 0743506123
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Muzica si Video
+Price: 7.96
+
+
+Name: Radu Costica
+Age: 43
+Email: costica@ymail.com
+City: Gherla
+Telephone: 0752145793
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Internet pe Mobil
+Price: 3.96
+
+
+Name: Trasca Moise
+Age: 29
+Email: moise@trasca.ro
+City: Cluj-Napoca
+Telephone: 0734525865
+Subscription: Mega Extra Premium
+Price: 28
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
+Name: Mihaela Zgura
+Age: 15
+Email: mihai@google.com
+City: Constanta
+Telephone: 0732456923
+Subscription: Smart Student
+Price: 9
+ExtraOption: -
+Price: 0
+
+
+Name: Georgescu Gina
+Age: 27
+Email: gina@george.escu
+City: Constanta
+Telephone: 0764312945
+Subscription: Busy BusinessMan
+Price: 13
+ExtraOption: Minute si SMS Nationale
+Price: 5.98
+
+
